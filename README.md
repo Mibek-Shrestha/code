@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+#project_image
+![refresh1](https://github.com/Mibek-Shrestha/code/assets/79530597/4b4b7fce-3810-421c-8992-04944bc5f1e7)
+![refresh2](https://github.com/Mibek-Shrestha/code/assets/79530597/4ad8cf07-074e-4cc8-9bd3-5291de494e09)
+![refresh3](https://github.com/Mibek-Shrestha/code/assets/79530597/887a4559-4d3d-49a1-be3b-35edb90c37ab)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
